@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main()  {
     int n; // Quantidade de números falados
     scanf("%d", &n);
     
